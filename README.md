@@ -8,7 +8,6 @@ Welcome to the Pizza Hut Django project! This web application allows users to or
 - [Installation]
 - [Usage]
 - [Contributing]
-- [License]
 
 ## Features
 
